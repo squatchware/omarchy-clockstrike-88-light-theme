@@ -1,0 +1,35 @@
+mode = "light"
+
+# Sunlit concrete, blueprint indigo, and the original temporal-energy accents.
+accent = "#007596"
+selection = "#C9E7F0"
+muted = "#5D6E81"
+
+background = "#F4F7FA"
+dark_background = "#E8EEF4"
+darker_background = "#D9E3EC"
+lighter_background = "#E1EBF3"
+
+foreground = "#172235"
+dark_foreground = "#5D6E81"
+light_foreground = "#344B64"
+bright_foreground = "#08111F"
+
+red = "#C92F43"
+yellow = "#8A6700"
+orange = "#BC5011"
+green = "#268049"
+cyan = "#087A9F"
+blue = "#315FD1"
+magenta = "#8B46C5"
+brown = "#7A5139"
+
+bright_red = "#AD2035"
+bright_yellow = "#745600"
+bright_green = "#176C39"
+bright_cyan = "#006C90"
+bright_blue = "#214DBB"
+bright_magenta = "#7435AA"
+
+selection_background = "#C9E7F0"
+selection_foreground = "#08111F"
